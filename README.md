@@ -1,4 +1,4 @@
-# 🥗 SmartNutri (NeonMacros)
+# 🥗 SmartDiet (NeonMacros)
 
 > A personalized diet planning application built with **React Native (Expo)** featuring a modern Dark UI and offline data persistence.
 
