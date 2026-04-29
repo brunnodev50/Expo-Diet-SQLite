@@ -29,4 +29,4 @@ This application helps users achieve their fitness goals (Weight Loss, Hypertrop
 ## 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/brunnodev50/SmartNutri.git](https://github.com/brunnodev50/SmartNutri.git)
+   git clone https://github.com/brunnodev50/SmartNutri.git)
